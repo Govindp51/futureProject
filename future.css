@@ -2,7 +2,8 @@ body{
     background-color: brown;
     color: aliceblue;
     font-family: 'Times New Roman', Times, serif;
-
     padding:10px;
     margin:20px;
+    font-style:arial;
+    
 }
