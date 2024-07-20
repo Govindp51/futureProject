@@ -2,7 +2,14 @@ body{
     background-color: brown;
     color: aliceblue;
     font-family: 'Times New Roman', Times, serif;
-
     padding:10px;
     margin:20px;
+    font-style:arial;
+    
+}
+h1{
+    font-size: 30px;
+    color: yellowgreen;
+    background-color: yellow;
+    border: 2px solid black;
 }
