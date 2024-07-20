@@ -7,3 +7,9 @@ body{
     font-style:arial;
     
 }
+h1{
+    font-size: 30px;
+    color: yellowgreen;
+    background-color: yellow;
+    border: 2px solid black;
+}
